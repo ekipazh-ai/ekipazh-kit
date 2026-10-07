@@ -6,5 +6,6 @@
 |---|---|---|
 | `img/codex-menu.png` | меню слева вверху в приложении ChatGPT: ChatGPT или Codex | снимок автора курса |
 | `img/codex-project.png` | над полем ввода в Codex: «Выбрать проект» — папка, в которой он работает | снимок автора курса |
+| `img/codex-models.png` | выбор модели справа внизу в поле ввода Codex | снимок автора курса |
 | `img/codex-mac.webp` | окно приложения Codex | снимок OpenAI, learn.chatgpt.com |
 | `img/github-2fa-app.png` | настройка приложения-аутентификатора в GitHub | GitHub Docs, CC BY 4.0, github.com/github/docs |
